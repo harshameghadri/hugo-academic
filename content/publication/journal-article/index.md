@@ -1,11 +1,14 @@
 ---
-title: "An example journal article"
+title: "Loss of Serpina1 in Mice Leads to Altered Gene Expression in Inflammatory and Metabolic Pathways."
 authors:
-- admin
-- Robert Ford
+- Sri Harsha Meghadri
+- Beatriz Martinez-Delgado
+- Lena Ostermann
+- Gema Gomez-Mariano
+- Sara Perez-Luz
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- "Project conception, Computational analysis, Original Draft, review "
+- "Methodology, Resources, "
 date: "2015-09-01T00:00:00Z"
 doi: ""
 
@@ -19,22 +22,22 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*International journal of Molecular Sciences, Vol 23, Issue 18*(1)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: The SERPINA1 gene encodes alpha1-antitrypsin (AAT), an acute phase glycoprotein and serine protease inhibitor that is mainly (80–90%) produced in the liver. Point mutations in the SERPINA1 gene can lead to the misfolding, intracellular accumulation, and deficiency of circulating AAT protein, increasing the risk of developing chronic liver diseases or chronic obstructive pulmonary disease. Currently, siRNA technology can knock down the SERPINA1 gene and limit defective AAT production. How this latter affects other liver genes is unknown. Livers were taken from age- and sex-matched C57BL/6 wild-type (WT) and Serpina1 knockout mice (KO) aged from 8 to 14 weeks, all lacking the five serpin A1a-e paralogues. Total RNA was isolated and RNA sequencing, and transcriptome analysis was performed. The knockout of the Serpina1 gene in mice changed inflammatory, lipid metabolism, and cholesterol metabolism-related gene expression in the liver. Independent single-cell sequencing data of WT mice verified the involvement of Serpina1 in cholesterol metabolism. Our results from mice livers suggested that designing therapeutic strategies for the knockout of the SERPINA1 gene in humans must account for potential perturbations of key metabolic pathways and consequent mitigation of side effects.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://www.mdpi.com/1422-0067/23/18/10425/pdf?version=1662706024
 url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 url_dataset: ''
 url_poster: ''
@@ -62,7 +65,7 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
 {{% callout note %}}

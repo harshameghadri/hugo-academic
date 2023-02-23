@@ -1,28 +1,28 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Sri Harsha Meghadri
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Sri Harsha
+last_name: Meghadri
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 👨🏻‍💻
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Doctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Hannover Medical school
+    url: https://www.mhh.de/pneumologie/mitarbeiter
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include transcriptomics, data analysis, drug repurposing for Idiopathic pulmonary fibrosis.
 
 # Interests to show in About widget
 interests:
@@ -33,15 +33,18 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: PhD in Bioinformatics
+      institution: Hannover Medical School
+      year: Current
+    - course: MSc Bioinformatics
+      institution: University of Gothenburg
+      year: 2020
+    - course: MSc Infection Biology
+      institution: Uppsala University
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BTech. Biotechnology
+      institution: Anna University
+      year: 2010  
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -53,7 +56,7 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/harshameghadri
     label: Follow me on Twitter
     display:
       header: true
@@ -71,7 +74,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/Sri_Harsha_Meghadri_CV_2022.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -80,5 +83,5 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Sri Harsha Meghadri is a Doctoral student in The BREATH-DZL bioinformatics platform. His current research project is to identify effective molecules that can be repurposed for treating Idiopathic Pulmonary fibrosis. To acheive this he is trying to implement machine learing models for identifying the small molecules. He has a broad range of interests and is skilled in R, bash, and Python. 
 {style="text-align: justify;"}
